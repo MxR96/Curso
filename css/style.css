@@ -7,6 +7,14 @@ body{
   text-align: justify;
   margin: 20px;
 }
+/* .fixed{
+  position: absolute;
+  width: 100%;
+} */
+
+/* .tittle{
+  position:absolute;
+} */
 .carrusel{
   align-items: center;
   margin: 40px;
